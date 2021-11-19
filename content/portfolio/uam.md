@@ -11,17 +11,10 @@ A series of projects aiming to understand end user needs and design solutions fo
 
 #### What we did
 
-1. A series of osbervational studies to elicit needs of those in the full system involved in using and supporting anesthesia machines. [here](https://doi.org/10.1093/intqhc/mzv030) FMEA of nurse anesthetists. [here](https://doi.org/10.1093/bja/aeu096). for maintenance and repair. [here](https://doi.org/10.1093/intqhc/mzu053).
-2. Simulation-based evaluations prior to deploymenet. [Here](https://doi.org/10.1016/j.jnma.2019.03.005).
-3. In situ simulations in the field. [here](https://doi.org/10.1016/j.jnma.2017.12.003).
-4. Clinical paper. [Here](https://journals.lww.com/anesthesia-analgesia/FullText/2016/07000/Anesthesia_Practice_and_Perioperative_Outcomes_at.28.aspx).
+We conducted a series of osbervational studies to elicit needs of those in the full system involved in using and supporting anesthesia machines including an  [FMEA with nurse anesthetists](https://doi.org/10.1093/intqhc/mzv030) and [clinical engineers](https://doi.org/10.1093/bja/aeu096) in Sierra Leone.  [here](https://doi.org/10.1093/intqhc/mzu053).
 
-#### What we found
-> Clearly unique needs to consider..
-
-#### Why this matters
-
-Surgical burden around the world... 
+We also used simulation-based evaluations  [prior to deployment](https://doi.org/10.1016/j.jnma.2019.03.005) and  [In Situ simulations in the field](https://doi.org/10.1016/j.jnma.2017.12.003).
+as well as a robust evaluation of [clinical process and outcomes](https://journals.lww.com/anesthesia-analgesia/FullText/2016/07000/Anesthesia_Practice_and_Perioperative_Outcomes_at.28.aspx) to inform future designs.
 
 #### Funding
-This work was supported by the 
+This work was supported by the Simons Foundation.
