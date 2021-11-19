@@ -34,5 +34,4 @@ This list does not represent everyone involved in these projects, but it is the 
 **Alice Che** is currently an Assistant Professor at the Florida Institute of Technology.
 
 
-
 [1]: /img/hs_rosen.jpg

@@ -22,7 +22,6 @@ We've developed tools to help support bedside nurses in the ICU carry out cognit
 
 > Well designed automation can eliminate error while simultaneously reducing workload, and improving efficiency, user trust, and perception of usability. 
 
-
 #### What's next
 
 This was the first of many steps. We're continuing to develop technologies to support safe and efficient care at the bedside. 
