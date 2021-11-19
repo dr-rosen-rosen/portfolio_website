@@ -7,17 +7,15 @@ title: Reimagining the Resident Learning Experience
 weight: 9
 ---
 
-A data-informed understanding of 'work as is' can drive ...
+A data-informed understanding of 'work as is' can drive real change.
 <!--more-->
 
 ...
 
 #### What we're doing
 
-1. Our [early work](https://doi.org/10.4300/JGME-D-19-00026.1) showed great promise
+We are currently using location tracking badges to inform our understanding of the resident educational experience, specifically, how much time residents get to spend interacting with patients. Our [early work](https://doi.org/10.4300/JGME-D-19-00026.1) showed that this approach can reliably capture time at the bedside and other critical aspects of work. Currently, we've conducted and expanded evaluation to establish baseline practices, and are building interactive visualization tools to inform reflection and system improvements. 
 2. Ongoing work...
 
-> Some stuff
-
 #### Funding
-AMA
+This work is funded by the American Medical Association.
