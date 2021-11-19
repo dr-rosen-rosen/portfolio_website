@@ -1,0 +1,35 @@
+baseurl: https://example.org/
+title: >
+  { People ⋃ technology } ∈ systems | safety
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2021 Michael Rosen'
+  description: Describe your website
+  email: mrosen44@jhmi.edu
+  navlinks:
+    - home: yes
+      name: Projects
+      url: portfolio/
+    - name: Overview
+      url: about/
+#    - name: Get in touch
+#      url: contact/
+  sidebarAbout:
+    - Welcome to our projects site. We focus on how people and technology create safety in complex high-risk work systems.
+    - We would love to hear from you about our past or ongoing work, and future collaborations. 
+  social:
+    email: mrosen44@jhmi.edu
+    #facebook: full page or profile url in facebook
+    #github: "https://github.com/dr-rosen-rosen"
+    #gitlab: full profile url in gitlab
+    #googleplus: full profile url in googleplus
+    #instagram: full profile url in instagram
+    #linkedin: full profile url in linkedin
+    #stackoverflow: full profile url in stackoverflow
+    #twitter: 
+    #whatsapp: wa.me service link
+    #youtube: full profile url in youtube
+  style: default
