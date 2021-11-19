@@ -10,11 +10,9 @@ weight: 6
 Linguistic style matching as an indicator of the quality of patient and physician interaction.
 <!--more-->
 
-Important stuff going on here...
+We are just begining a project applying lexical and generative language modeling to physician and patient interactions. 
 
-1. Working with a large (~1,000) set of transcripts of 
-
-> Big stuff coming...
+> We're just starting. More to come soon!!
 
 #### Funding
-This work is funded by ... and ... 
+This work is funded by NIH and the VA. 
