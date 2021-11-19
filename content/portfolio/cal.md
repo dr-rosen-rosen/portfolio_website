@@ -7,22 +7,19 @@ title: Collective Allostatic Load
 weight: 1
 ---
 
-Chronic and accute stressors take a toll. Our social relationships and interactions may provide protective benefit. 
+Chronic and accute stressors take a toll. Our social relationships and interactions may provide protective benefit. Unobtrusive measures can help generate insights into key drivers of stress and strain in the ICU. 
 <!--more-->
 #### What we're doing
-We are currently running an observational study in a large (40 bed) Pediatric Intensive Care Unit. The team of PICU fellows and charge nurses...  
+We are currently running an observational study in a large (40 bed) Pediatric Intensive Care Unit (PICU). Physicians and nurses in the PICU wear sensors to capture movement, communicaiton and physiology. We're pairing this with surveys and clinical data to build the most detailed dataset of work interactions in an ICU setting ever.
 
-We're using these devices:
+*We're using these devices*:
 ![PICU CAL Study devicees](/img/portfolio/PICU_CAL_DEVICES.svg)
 
-To capture rich data about physiology:
+*To capture rich data about physiology*:
 ![PICU CAL E4 data](/img/portfolio/PICU_CAL_E4.svg)
 
-physical movement;
+and *physical movement*:
 ![PICU CAL RLTS](/img/portfolio/PICU_CAL_RTLS.png)
-2. Combined with self-report data at mutiple timeppoints throughout a 12-hour shift and administrative data.
-3. to do what?
-
 
 > Once complete, we hope to inform better staffing and management systems as well as build tools to help realtime mitigation and manageement strategies.
 
