@@ -14,8 +14,8 @@ We focus on understanding and improving how people work together and with techno
 **Our approach(es)**:
 * Respect the insight and expertise of people within a system through participatory collaborative efforts and qualitative methods.
 * Use data, of all sources and sizes, in the service of progress, includinng advancing rigorous and practical methods of unobtrusive measurement.
-* Apply the fundamental methods of human factors design.
-* Use simulation to explore (create new knowledge) and exploit (capitalize on established knowledge)
+* Apply the foundational methods of human factors design.
+* Use simulation to explore (create new knowledge) and exploit (capitalize on established knowledge).
 
 ### Current Collaborators
 
