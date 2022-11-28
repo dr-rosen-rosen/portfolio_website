@@ -6,7 +6,7 @@ showonlyimage: false
 title: Sensor-based nursing workload measurement
 weight: 0
 ---
-Bedside ICU nurses work extremley hard. Sensors can generate insights into specific sources of workload, and, better strategies for management. 
+Bedside ICU nurses work extremely hard. Sensors can generate insights into specific sources of workload, and, better strategies for management. 
 
 <!--more-->
 
@@ -17,7 +17,7 @@ This was our earliest effort at using sensor-based measures in clinical care del
 2. Using sociometric badges from Humanyze (né Sociometric Solutions), we collected movement and communication data over 60 clinical shifts. 
 
 #### What we found
-> Sensor-based measures, which captured actual work processes, were a much better indicat of how mentally and physically taxing a shift was for nurses than the types of measures typpically used.
+> Sensor-based measures, which captured actual work processes, were a much better indicator of how mentally and physically taxing a shift was for nurses than the types of measures typpically used.
 
 #### Why this matters
 
