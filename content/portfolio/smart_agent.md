@@ -18,13 +18,17 @@ We've developed tools to help support bedside nurses in the ICU carry out cognit
 1. Defined requirements from the clinician perspective  [study here](https://doi.org/10.1177%2F2516043519893228).
 2. Conducted observational (time and motion) and interview (FMEA) studies to better define opportunities to redesign the work (manuscript in preparation).
 3. Develop prototype designs, and evaluate them in a simulation study [here](http://dx.doi.org/10.1136/bmjqs-2020-011420).
+
+*Changes to workflow with the Smarg Agent system:*
+![Smart Agent Workflow](/img/portfolio/SmartAgentWF.png)
+
 #### What we found
 
-> Well designed automation can eliminate error while simultaneously reducing workload, and improving efficiency, user trust, and perception of usability. 
+> Well designed automation can eliminate medication doing errors (which were ~18% of medication changes in standard of care) while simultaneously reducing workload, and improving efficiency, user trust, and perception of usability. 
 
 #### What's next
 
 This was the first of many steps. We're continuing to develop technologies to support safe and efficient care at the bedside. 
 
 #### Funding
-This work was funded by the Agency for Healthcare Research and Quality.
+This work was funded by the Agency for Healthcare Research and Quality's [Patient Safety Learning Laboratories](https://www.ahrq.gov/patient-safety/resources/learning-lab/index.html) program.
