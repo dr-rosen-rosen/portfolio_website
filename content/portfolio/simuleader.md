@@ -10,7 +10,7 @@ weight: 7
 Improving complex systems is hard. Leaders need a way to experiment with system change and improvement. Simulation helps reframe what we can change about our work systems.
 <!--more-->
 
-More information on Simu-Leader [here](https://www.hopkinsmedicine.org/armstrong_institute/improvement_projects/health_care_worker_performance/simuleader.html).
+More information on Simu-Leader [here](https://www.hopkinsmedicine.org/armstrong_institute/improvement_projects/health_care_worker_performance/simuleader.html) and a brief description of the program in [Health Management](https://healthmanagement.org/c/hospital/issuearticle/the-simu-leader-programme).
 
 #### What we've done
 
