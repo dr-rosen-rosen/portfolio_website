@@ -20,5 +20,8 @@ We are currently using location tracking badges to inform our understanding of t
 
 We're continuing to learn how to apply location tracking to better capture workflow and activities. We're currently using feedback reports to interns as a means to prompt reflection and discussion about what can be done to better optimize the work and learning environments. 
 
+![GEL Feedback Report Example](/img/portfolio/gelFBReport.svg)
+
+
 #### Funding
 This work is funded by the American Medical Association.
