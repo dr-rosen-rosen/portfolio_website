@@ -13,7 +13,7 @@ The goals of our project are to develop and validate sensor-based and sociometri
 
 We're collecting data in NASA's Human Exploration Research Analog ([HERA](https://www.nasa.gov/analogs/hera)) and other analog environments.
 
-> Data collection will be complete in 2022!! 
+> Data collection will be complete in 2023!! 
 
 #### Funding
 This work was funded by the [NASA Human Research Program](https://www.nasa.gov/hrp). 
