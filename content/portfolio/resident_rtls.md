@@ -14,7 +14,7 @@ The patient-physician encounter remains the cornerstone of medical practice. How
 
 #### What we've done
 
-We are currently using location tracking badges to inform our understanding of the resident educational experience, specifically, how much time residents get to spend interacting with patients. Our [early work](https://doi.org/10.4300/JGME-D-19-00026.1) showed that this approach can reliably capture time at the bedside and other critical aspects of work. We've built from this work and conducted [an expanded study over a year timeframe and 95,275 intern hours](http://jamanetwork.com/article.aspx?doi=10.1001/jamanetworkopen.2022.15885) showing that, on average interns spent 13.4% of their time interacting with patients, and 33.3% in physician work spaces. There is significant variance in time at the bedside associated with individuals and with clinical rotations. This indicates that both unit or department level interventions as well as individual interventions may help to increase the amount of time spent with patients. 
+We are currently using location tracking badges to inform our understanding of the resident educational experience, specifically, how much time residents get to spend interacting with patients. Our [early work](https://doi.org/10.4300/JGME-D-19-00026.1) showed that this approach can reliably capture time at the bedside and other critical aspects of work. We've built from this work and conducted [an expanded study over a year timeframe and 95,275 intern hours](http://jamanetwork.com/article.aspx?doi=10.1001/jamanetworkopen.2022.15885) showing that, on average interns spent 13.4% of their time interacting with patients, and almost 2.5 times as much time (33.3%) in physician work spaces. There is significant variance in time at the bedside associated with individuals and with clinical rotations. This indicates that both unit or department level interventions as well as individual interventions may help to increase the amount of time spent with patients. 
 
 #### Ongoing work
 
@@ -24,4 +24,4 @@ We're continuing to learn how to apply location tracking to better capture workf
 
 
 #### Funding
-This work is funded by the American Medical Association.
+This work is funded by the American Medical Association's [Reimagining Residency](https://www.ama-assn.org/education/accelerating-change-medical-education/ama-reimagining-residency-initiative) initiative.
