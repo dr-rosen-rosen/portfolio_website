@@ -21,5 +21,6 @@ Linguistic style, the unique way in which individuals express themselves using l
 
 From our initial studies, it appears that the overall amount of matching, or even if the physician is the one who matches the patient most, does not matter as much to patients as the trajectory or change in matching over time throughout in interaction. Patients are more likely to rate their physician's style as similar to their own if the physician increases their matching over time. **We're calling this a linguistic accommodation process.** 
 
+
 #### Funding
 This work is funded by NIH and the VA. 
